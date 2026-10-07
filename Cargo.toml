@@ -1,6 +1,6 @@
 [package]
 name = "resumereaderapi"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Alpha Quantum <info@alpha-quantum.com>"]
 description = "Rust client for the Resume Reader API: parse PDF, DOCX and scanned resumes into 114 structured JSON fields, and normalize job titles, skills and locations"
