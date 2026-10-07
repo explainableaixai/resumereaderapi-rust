@@ -1,0 +1,9 @@
+target/
+.dart_tool/
+node_modules/
+__pycache__/
+*.pyc
+dist/
+build/
+*.egg-info/
+pubspec.lock
